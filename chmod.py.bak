@@ -1,8 +1,7 @@
-#!/usr/bin/python3
-import os
+#!/usr/bin/env 
 
-def listFiles():
-    print("Printing the files and folders of the current Directory...\n\n")
+listFiles():
+echo "Printing the files and folders of the current Directory...\n\n"
     dir = input("Enter directory name")
     #print(dir)
      

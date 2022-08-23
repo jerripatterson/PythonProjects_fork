@@ -1,7 +1,7 @@
-#!/usr/bin/env 
+
 
 listFiles():
-    echo "Printing the files and folders of the current Directory...\n\n"
+echo "Printing the files and folders of the current Directory...\n\n"
     dir = input("Enter directory name")
     #print(dir)
      

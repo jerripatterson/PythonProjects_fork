@@ -1,4 +1,4 @@
-#!/home/jerripat/PythonProjects/PyScripts/venv/bin/python
+#!/home/jerripat/PythonProjects/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
