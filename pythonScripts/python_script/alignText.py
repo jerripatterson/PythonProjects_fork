@@ -1,7 +1,7 @@
 import os
 
 t_w = os.get_terminal_size().columns
-os.get_terminal_size()
+#os.get_terminal_size()
 
 
 givinStr = input('Enter a string: ')
